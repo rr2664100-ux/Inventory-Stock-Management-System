@@ -29,6 +29,6 @@ A simple desktop inventory application built with Python and Tkinter for managin
 - The app uses SQLite for local storage.
 - If you want to reset the inventory data, delete the `inventory.db` file and run the program again.
 
-
+## See Ui Interface
 
 <img width="1805" height="842" alt="image" src="https://github.com/user-attachments/assets/362667d7-036b-4142-9d70-9d5aab138cb4" />
